@@ -120,4 +120,78 @@ This makes the interface more accessible to farmers who may prefer regional lang
 Clone the repository:
 
 ```bash
-git clone https://github.com/saqibaliuol110-dev/ai-smart-farmer-assistant.git
+git clone https://github.com/saqibaliuol110-dev/ai-smart-farmer-assistant.git   
+
+Open the project folder:
+
+```bash
+cd ai-smart-farmer-assistant
+```
+
+Install dependencies:
+
+```bash
+flutter pub get
+```
+
+Run the application:
+
+```bash
+flutter run
+```
+
+The required TensorFlow Lite model is included in the project assets.
+
+## 📸 App Preview
+
+### Welcome Screen
+![Welcome Screen](images/welcome.jpg)
+
+### 🌐 Regional Language Support
+English, Urdu and Sindhi language options make the application more accessible for local farmers.
+
+![Language Selection](images/language-selection.jpg)
+
+### 🍃 Dr. Leaf — AI Disease Detection
+Farmers can scan a supported crop leaf and receive disease identification, confidence score and treatment guidance.
+
+![Dr Leaf Output](images/dr-leaf-output.jpg)
+
+### 🌱 Crop Recommendation
+The application analyzes agricultural conditions and provides suitable crop recommendations.
+
+![Crop Recommendation Result](images/crop-recommendation-result.jpg)
+
+## 📊 Current Status
+
+The project is a **working MVP** developed for the Pakistan AI Hackathon 2026.
+
+The core disease-detection and crop-recommendation workflows are implemented and integrated into the Flutter application.
+
+Further field validation is planned using more farmer-captured images under different lighting, backgrounds and crop conditions.
+
+## 🔮 Future Roadmap
+
+Planned improvements include:
+
+- 🎙️ Voice guidance
+- 💬 Conversational AI farming assistant
+- 🌿 Fertilizer recommendation
+- 🌾 Support for additional crops and diseases
+- 🛡️ Stronger plant/non-plant and out-of-distribution detection
+- 📷 Larger farmer-captured field dataset
+- 🌦️ Weather-aware agricultural guidance
+
+## 👨‍💻 Developer
+
+**Saqib Ali**  
+BS Computer Science  
+Quaid-e-Awam University
+
+## 🏆 Hackathon
+
+Developed for the **Pakistan AI Hackathon 2026 — Smart Agriculture Track**.
+
+---
+
+**AI Smart Farmer Assistant — bringing practical AI assistance closer to farmers.**
