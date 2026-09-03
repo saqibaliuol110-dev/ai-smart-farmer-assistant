@@ -1,0 +1,14 @@
+Cotton_Bacterial_Blight
+Cotton_Diseased
+Cotton_Healthy
+Not_A_Plant
+Other_Leaves
+Rice_Brown_Spot
+Rice_Healthy
+Rice_Leaf_Blast
+Tomato_Early_Blight
+Tomato_Healthy
+Tomato_Late_Blight
+Wheat_Brown_Rust
+Wheat_Healthy
+Wheat_Yellow_Rust
